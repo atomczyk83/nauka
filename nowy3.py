@@ -11,6 +11,7 @@ while op == "t":
             print("Najmniejsza: ", a)
         elif b < c:
             print("Najmniejsza: ", b)
+        
         else:
             print("Najmniejsza: ", c)
        
